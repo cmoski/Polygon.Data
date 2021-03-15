@@ -3,6 +3,12 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
     <RootNamespace>polygon_data_api_csharp</RootNamespace>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <Authors>AWT</Authors>
+    <Description>This project is meant to split off Alpaca's depreciated polygon data API into its own project, and extend its functionality.</Description>
+    <PackageProjectUrl></PackageProjectUrl>
+    <RepositoryUrl></RepositoryUrl>
+    <Company />
   </PropertyGroup>
 
   <ItemGroup>
